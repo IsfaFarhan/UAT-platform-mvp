@@ -125,7 +125,6 @@ h3 {
   border-radius: 8px;
   padding-right: 4px;
   height: calc(100vh - 94px);
-  scrollbar-width: 4px;
 }
 
 a {
