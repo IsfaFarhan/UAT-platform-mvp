@@ -117,9 +117,14 @@ h3 {
   text-align: center;
 }
 
+.iframe1 {
+  height: calc(100vh - 94px);
+}
+
 .iframe2 {
   border-radius: 8px;
   padding-right: 4px;
+  height: calc(100vh - 94px);
 }
 
 a {
